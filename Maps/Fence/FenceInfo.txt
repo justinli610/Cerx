@@ -1,0 +1,21 @@
+O==========O
+|  Setting  \
+O============O
+
+Time: Day
+Weather: None
+Rain Frequency: 20
+
+O=============O
+|  Characters  \
+O===============O
+
+O=========O
+|  Events  \
+O===========O
+
+O=============O
+|  Encounters  \
+O===============O
+
+Rate: 100

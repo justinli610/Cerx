@@ -1,0 +1,28 @@
+O==========O
+|  Setting  \
+O============O
+
+Time: Day
+Weather: None
+Rain Frequency: 0
+
+O=============O
+|  Characters  \
+O===============O
+
+O=========O
+|  Events  \
+O===========O
+
+'a' 99985
+'b' 30001
+'c' 30002
+
+O=============O
+|  Encounters  \
+O===============O
+
+Rate: 0
+Enemy Formations:
+
+End

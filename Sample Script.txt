@@ -1,0 +1,305 @@
+// Format:
+// Sequence header
+// Command
+// Tail
+// 
+// Head
+// Command
+// Tail
+//
+// Head
+// Command
+// Stop code
+
+// Beginning of the game
+O=============================================================O
+11111
+Switch: LevelOneVillage: x3200 y3400
+2003
+2003
+Character in: Kallis: x3280 y3400
+2004
+2004
+Character in: Arkin: x3200 y3400
+2005
+2005
+Center: Kallis
+2006
+2006
+Fade in: <par>
+2007
+
+2007
+Dialog: Arkin: It's almost midnight. You should get some rest. I'll keep watch.
+2008
+
+2008
+Dialog: Kallis: He must be in one of these houses. 
+2009
+
+2009
+Player: Kallis
+0000
+O=============================================================O
+// Start battle part 1
+10001
+Fade out: 255 255 255
+1001
+1001
+Sustain
+0000
+O=============================================================O
+// Start battle part 2
+10002
+Fade in: <par>
+0000
+O=============================================================O
+30001
+Character in: Mysterious Man: x600 y360
+1001
+
+1001
+Dialog: Kallis: Oh, there's someone in here.
+1002
+
+1002
+Pan: U480
+1003
+
+1003
+Wait: 1000
+1004
+
+1004
+Dialog: Arkin: Maybe we shouldn't go barging into other people's houses, you know. Just an idea.
+1005
+
+1005
+Pan: D480
+1006
+
+1006
+Player: Kallis
+0000
+ 
+O=============================================================O
+30002
+Dialog: Old Man: Who are you? Get out!
+0000
+
+O=============================================================O
+// Used whenever the game is started to allow the map to load without being seen
+
+11112
+Wait: 500
+1000
+1000
+Fade in: <par>
+0000
+O=============================================================O
+10000
+Dialog: Kallis: What are you doing? Stay close to me.
+3306
+3306
+Dialog: Bander: Kallis, look. See that light over there?
+3307
+3307
+Wait: 0
+3308
+3308
+Dialog: Kallis: Yes.
+3309
+3309
+Dialog: Bander: It... It wasn't there before, was it?
+3320
+3320
+Wait: 0
+3321
+3321
+Dialog: Kallis: We should go. Now.
+0000
+O=============================================================O
+50003
+Fade out: <par>
+1205
+1205
+Switch: Sample: x300 y360
+1206
+1206
+Fade in: <par>
+0000
+O===============================O
+99992
+Fade out: <par>
+1001
+
+1001
+Switch: House2: x640 y720
+1002
+
+1002
+Fade in: <par>
+0000
+O===============================O
+99993
+Fade out: <par>
+1001
+
+1001
+Switch: House3: x1080 y880
+1002
+
+1002
+Fade in: <par>
+0000
+O===============================O
+99994
+Fade out: <par>
+1001
+
+1001
+Switch: House4: x480 y960
+1002
+
+1002
+Fade in: <par>
+0000
+O===============================O
+99995
+Fade out: <par>
+1001
+
+1001
+Switch: House5: x620 y880
+1002
+
+1002
+Fade in: <par>
+0000
+O===============================O
+99996
+Fade out: <par>
+1001
+
+1001
+Switch: House6: x1500 y960
+1002
+
+1002
+Fade in: <par>
+0000
+O===============================O
+99997
+Fade out: <par>
+1001
+
+1001
+Switch: House7: x1040 y720
+1002
+
+1002
+Fade in: <par>
+0000
+
+O===============================O
+99998
+Fade out: <par>
+1001
+
+1001
+Switch: House8: x980 y1140
+1002
+
+1002
+Fade in: <par>
+0000
+
+O===============================O
+99982
+Fade out: <par>
+1001
+
+1001
+Switch: LevelOneVillage: x480 y1320
+1002
+
+1002
+Fade in: <par>
+0000
+O===============================O
+99983
+Fade out: <par>
+1001
+
+1001
+Switch: LevelOneVillage: x1400 y1080
+1002
+
+1002
+Fade in: <par>
+0000
+
+O===============================O
+99984
+Fade out: <par>
+1001
+
+1001
+Switch: LevelOneVillage: x1800 y1320
+1002
+
+1002
+Fade in: <par>
+0000
+
+O===============================O
+99985
+Fade out: <par>
+1001
+
+1001
+Switch: LevelOneVillage: x1280 y1920
+1002
+
+1002
+Fade in: <par>
+0000
+
+O===============================O
+99986
+Fade out: <par>
+1001
+
+1001
+Switch: LevelOneVillage: x1920 y2480
+1002
+
+1002
+Fade in: <par>
+0000
+
+O===============================O
+99987
+Fade out: <par>
+1001
+
+1001
+Switch: LevelOneVillage: x3200 y2560
+1002
+
+1002
+Fade in: <par>
+0000
+
+O===============================O
+99988
+Fade out: <par>
+1001
+
+1001
+Switch: LevelOneVillage: x3200 y3400
+1002
+
+1002
+Fade in: <par>
+0000

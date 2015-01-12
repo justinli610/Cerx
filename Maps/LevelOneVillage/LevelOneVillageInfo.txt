@@ -1,0 +1,33 @@
+O==========O
+|  Setting  \
+O============O
+
+Time: Night
+Weather: Storm
+Rain Frequency: 200
+
+O=============O
+|  Characters  \
+O===============O
+
+O=========O
+|  Events  \
+O===========O
+'2' 99992
+'3' 99993
+'4' 99994
+'5' 99995
+'6' 99996
+'7' 99997
+'8' 99998
+O=============O
+|  Encounters  \
+O===============O
+Rate: 300
+Enemy Formations:
+0.5 Strident
+0.25 Strident, Strident
+0.25 Jovian Hound
+0.5 Thunderbird
+.2 Baby Behemoth
+End

@@ -1,0 +1,31 @@
+O==========O
+|  Setting  \
+O============O
+
+Time: Night
+Weather: Storm
+Rain Frequency: 100
+
+O=============O
+|  Characters  \
+O===============O
+
+O=========O
+|  Events  \
+O===========O
+
+'b' 50002
+'a' 10005
+
+O=============O
+|  Encounters  \
+O===============O
+
+// Rate must be between 0 and 1000 inclusive.
+Rate: 300
+
+Enemy Formations:
+0.5 Strident
+0.25 Strident, Strident
+0.25 Jovian Hound
+End
